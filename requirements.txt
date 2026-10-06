@@ -1,0 +1,6 @@
+openai
+python-dotenv
+requests
+keyboard
+watchdog
+Send2Trash
